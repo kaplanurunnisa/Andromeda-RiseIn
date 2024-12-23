@@ -68,18 +68,18 @@ This dApp is designed to provide secure and efficient access to decentralized fi
    git clone https://github.com/your-username/andromeda-dapp.git  
 
 2. Navigate to the project directory:
-bash: 
-cd andromeda-dapp  
+    ```bash 
+    cd andromeda-dapp  
 
 3. Install dependencies:
-bash
-npm install  
+    ```bash
+    npm install  
 4. Compile and deploy smart contracts:
-bash
-npm run deploy  
+    ```bash
+    npm run deploy  
 5. Start the development server:
-bash
-npm start  
+     ```bash
+    npm start  
 
 Usage
 - Connect your Andromeda-compatible wallet.
